@@ -2,7 +2,6 @@
 name = "scrobble_spotify"
 version = "0.1.0"
 description = "Scrobble Spotify history to Last.fm"
-authors = [{ name = "Gemini", email = "gemini@google.com" }]
 
 [project.dependencies]
 pylast = "^6.0.0"
